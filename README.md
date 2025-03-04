@@ -10,3 +10,5 @@ and do
 const red = require("./scraper")
 
 await red.tiktok("url_tiktok")
+
+await red.bucin()
